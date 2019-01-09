@@ -1,0 +1,19 @@
+{
+  "name": "sample-nodejs",
+  "version": "1.0.0",
+  "description": "a very stupid nodejs sample app",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "github.com:webofmars/sample-nodejs.git"
+  },
+  "keywords": [
+    "sample",
+    "nodejs"
+  ],
+  "author": "Frederic Leger (webofmars)",
+  "license": "Apache-2.0"
+}
