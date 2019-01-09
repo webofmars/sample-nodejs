@@ -2,7 +2,7 @@
   "name": "sample-nodejs",
   "version": "1.0.0",
   "description": "a very stupid nodejs sample app",
-  "main": "index.js",
+  "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -15,5 +15,8 @@
     "nodejs"
   ],
   "author": "Frederic Leger (webofmars)",
-  "license": "Apache-2.0"
+  "license": "Apache-2.0",
+  "dependencies": {
+    "http-server": "^0.11.1"
+  }
 }
